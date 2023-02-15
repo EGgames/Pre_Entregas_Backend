@@ -1,0 +1,180 @@
+[
+    {
+        "id": 1,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "IPG389",
+        "price": 228.01,
+        "status": true,
+        "stock": 109,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/218x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/146x100.png/ff4444/ffffff",
+            "http://dummyimage.com/194x100.png/dddddd/000000",
+            "http://dummyimage.com/111x100.png/dddddd/000000",
+            "http://dummyimage.com/173x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/247x100.png/dddddd/000000"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "JTU193",
+        "price": 215.01,
+        "status": true,
+        "stock": 288,
+        "category": "Documentary|Musical",
+        "thumbnails": [
+            "http://dummyimage.com/167x100.png/ff4444/ffffff",
+            "http://dummyimage.com/208x100.png/ff4444/ffffff",
+            "http://dummyimage.com/222x100.png/ff4444/ffffff",
+            "http://dummyimage.com/141x100.png/ff4444/ffffff",
+            "http://dummyimage.com/123x100.png/dddddd/000000",
+            "http://dummyimage.com/159x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/104x100.png/dddddd/000000",
+            "http://dummyimage.com/160x100.png/cc0000/ffffff"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "LQC024",
+        "price": 438.43,
+        "status": true,
+        "stock": 324,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/185x100.png/dddddd/000000",
+            "http://dummyimage.com/229x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/243x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/148x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/141x100.png/5fa2dd/ffffff"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "LJP912",
+        "price": 152.55,
+        "status": true,
+        "stock": 308,
+        "category": "Horror|Sci-Fi|Thriller",
+        "thumbnails": [
+            "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/126x100.png/dddddd/000000",
+            "http://dummyimage.com/235x100.png/dddddd/000000",
+            "http://dummyimage.com/135x100.png/dddddd/000000",
+            "http://dummyimage.com/101x100.png/cc0000/ffffff",
+            "http://dummyimage.com/101x100.png/cc0000/ffffff"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "PWX848",
+        "price": 264.99,
+        "status": true,
+        "stock": 308,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/100x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/191x100.png/ff4444/ffffff",
+            "http://dummyimage.com/188x100.png/dddddd/000000",
+            "http://dummyimage.com/138x100.png/ff4444/ffffff",
+            "http://dummyimage.com/236x100.png/dddddd/000000"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "LGD442",
+        "price": 117.04,
+        "status": true,
+        "stock": 216,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/144x100.png/dddddd/000000",
+            "http://dummyimage.com/123x100.png/cc0000/ffffff",
+            "http://dummyimage.com/240x100.png/dddddd/000000",
+            "http://dummyimage.com/203x100.png/dddddd/000000",
+            "http://dummyimage.com/109x100.png/ff4444/ffffff",
+            "http://dummyimage.com/158x100.png/cc0000/ffffff"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "DHD492",
+        "price": 354.34,
+        "status": true,
+        "stock": 83,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/201x100.png/ff4444/ffffff",
+            "http://dummyimage.com/240x100.png/ff4444/ffffff",
+            "http://dummyimage.com/234x100.png/cc0000/ffffff",
+            "http://dummyimage.com/168x100.png/dddddd/000000",
+            "http://dummyimage.com/129x100.png/ff4444/ffffff"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "IHT383",
+        "price": 316.41,
+        "status": true,
+        "stock": 302,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/129x100.png/dddddd/000000",
+            "http://dummyimage.com/147x100.png/cc0000/ffffff",
+            "http://dummyimage.com/163x100.png/ff4444/ffffff",
+            "http://dummyimage.com/235x100.png/ff4444/ffffff",
+            "http://dummyimage.com/228x100.png/ff4444/ffffff",
+            "http://dummyimage.com/103x100.png/5fa2dd/ffffff"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "VLK460",
+        "price": 362.52,
+        "status": true,
+        "stock": 272,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/242x100.png/dddddd/000000",
+            "http://dummyimage.com/209x100.png/ff4444/ffffff",
+            "http://dummyimage.com/214x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/138x100.png/5fa2dd/ffffff"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "prueba de titulo",
+        "description": "Prueba de Descripcion",
+        "code": "FWY935",
+        "price": 357.78,
+        "status": true,
+        "stock": 215,
+        "category": "Categoria",
+        "thumbnails": [
+            "http://dummyimage.com/165x100.png/dddddd/000000",
+            "http://dummyimage.com/132x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/135x100.png/dddddd/000000",
+            "http://dummyimage.com/108x100.png/5fa2dd/ffffff",
+            "http://dummyimage.com/125x100.png/cc0000/ffffff",
+            "http://dummyimage.com/119x100.png/ff4444/ffffff"
+        ]
+    }
+]
