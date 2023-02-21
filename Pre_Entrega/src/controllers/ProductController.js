@@ -1,5 +1,5 @@
 const ProductManager = require('./../helpers/ProductManager')
-const path = './src/datastorage/products.json'
+const path = './Pre_Entrega/src/datastorage/products.json'
 let info = {}
 
 //función de ayuda para obtener todos los productos

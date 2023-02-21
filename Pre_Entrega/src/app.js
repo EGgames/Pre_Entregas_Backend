@@ -4,7 +4,9 @@ const cartRouter = require('./router/carts.router')
 
 const server = express()
 
-server.listen(8080, () => console.log('Servidor conectado exitosamente'))
+const port = 8080
+
+server.listen(port, () => console.log('Servidor conectado exitosamente en puerto ' + port))
 
 server.use(express.json())
 server.use(express.urlencoded({extends: true}))

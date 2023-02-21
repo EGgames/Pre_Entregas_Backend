@@ -6,9 +6,9 @@ class ProductManager {
         this.path = path
     }
 
-    /* Method that gets the content of the products file returns the following.
-        String - With content of the file.
-        False – If the file is not found, or if the file exists, but is empty. */
+    /*  Método que obtiene el contenido del archivo de productos devuelve lo siguiente.
+        String - Con contenido del archivo.
+        False: si no se encuentra el archivo o si existe, pero está vacío. */
     getContentFile = async () => {
         let content = ""
         try {
@@ -24,10 +24,10 @@ class ProductManager {
         return content
     }
 
-    /* Method that writes the content of the products file, returns the following.
-        True – Whether the file was successfully written to.
-        False – If there was a problem writing to the file.
-    If the file does not exist, it creates it. */
+    /* Método que escribe el contenido del archivo de productos, devuelve lo siguiente.
+        True: indica si el archivo se escribió correctamente.
+        False: si hubo un problema al escribir en el archivo.
+                                                 Si el archivo no existe, lo crea. */
     setContentFile = async content => {
         try {
             await fs.promises.writeFile(this.path, JSON.stringify(content, null, 4))
@@ -37,9 +37,9 @@ class ProductManager {
         return true
     }
 
-    /* Method that gets all the products in the file, returns the following.
-        Object Array – Whether the file contains an array (can be an empty array).
-        False – If the file has no content to return or the file does not exist. */
+    /* Método que obtiene todos los productos en el archivo, devuelve lo siguiente.
+        Object Array: si el archivo contiene una matriz (puede ser una matriz vacía).
+        False: si el archivo no tiene contenido para devolver o el archivo no existe. */
     getAllProducts = async () => {
         const content = await this.getContentFile()
 

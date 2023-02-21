@@ -1,7 +1,7 @@
 const CartManager = require('./../helpers/CartManager')
 const ProductManager = require('./../helpers/ProductManager')
-const pathCarts = './src/datastorage/carts.json'
-const pathProducts = './src/datastorage/products.json'
+const pathCarts = './Pre_Entrega/src/datastorage/carts.json'
+const pathProducts = './Pre_Entrega/src/datastorage/products.json'
 
 // Obtiene el card desde el servidor
 const getProductsCartFromServer = async (req, res) => {
